@@ -4,5 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Create a new branch is quik and simple.
 dev will merge with master.
-issue 101.
-issue 102.
+the job is not over.
